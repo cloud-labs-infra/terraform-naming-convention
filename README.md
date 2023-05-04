@@ -1,1 +1,1 @@
-# Module name
+# Common Naming Convention module
